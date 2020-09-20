@@ -1,0 +1,7 @@
+Warning[2066] G:\internship\start\Ventilator\main.c 106 : type qualifier mismatch in assignment
+Warning[2058] G:\internship\start\Ventilator\main.c 111 : call of function without prototype
+Warning[2066] G:\internship\start\Ventilator\main.c 130 : type qualifier mismatch in assignment
+Warning[2054] G:\internship\start\Ventilator\main.c 153 : suspicious pointer conversion
+Warning[2066] G:\internship\start\Ventilator\main.c 153 : type qualifier mismatch in assignment
+Warning[2054] G:\internship\start\Ventilator\main.c 154 : suspicious pointer conversion
+Warning[2066] G:\internship\start\Ventilator\main.c 154 : type qualifier mismatch in assignment
